@@ -1,0 +1,1 @@
+VS Code has a glitch where you can't have multiple module-info files which means you can't organize you files in multiple modules like I was supposed to do in this situation. That is why the package decklarations are commented. Of course we could organize these classes into packages but that was my previous lab exercise so i didn't do it here.
